@@ -51,13 +51,9 @@
     </div>
     <br />
     <div>
-        <h2>⏱ My Stats
+        <h2>⏱ Github Stats
         </h2>
         <details>
-            <summary>
-                :octocat: Github Stats
-            </summary>
-            <br />
             <p align="center">
                 <img height="160" alt="Aromal's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=lecongaizu&show_icons=true&hide_border=true&theme=dark&count_private=true" />
@@ -66,8 +62,6 @@
             </p>
         </details>
     </div>
-    <br />
-
 </div>
 
 <hr />
