@@ -53,9 +53,12 @@
     <div>
         <h2>⏱ Github Stats
         </h2>
-        <a href="#">
-            <img align="right" src="https://github-readme-stats.vercel.app/api?username=lecongaizu&show_icons=true&theme=default">
-        </a>
+        <p align="center">
+                <img height="160" alt="Aromal's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=lecongaizu&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                <img alt="Aromal's Github Stats" height="160"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecongaizu&hide=assembly&layout=compact&theme=dark" />
+        </p>
 <!--         <details>
             <p align="center">
                 <img height="160" alt="Aromal's Github Stats"
