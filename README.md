@@ -10,7 +10,7 @@
     <div>
         <a href="https://www.linkedin.com/in/van-cong-le-b27836118/" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:lecongdtvt10n@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:lecongdtvt10@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     </div>
 </div>
@@ -25,7 +25,7 @@
             <li> 🎓 I'm currently learning Data science</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:cuonghapvn@gmail.com" target="_blank">lecongdtvt10@gmail.com</a></li>
+                <a href="mailto:lecongdtvt10@gmail.com" target="_blank">lecongdtvt10@gmail.com</a></li>
             <li>📄 Here's my <a href="https://www.linkedin.com/in/van-cong-le-b27836118/" target="_blank">Resume</a></li>
         </ul>
     </div>
@@ -59,19 +59,8 @@
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecongaizu&hide=assembly&layout=compact&theme=dark" />
         </p>
-<!--         <details>
-            <p align="center">
-                <img height="160" alt="Aromal's Github Stats"
-                    src="https://github-readme-stats.vercel.app/api?username=lecongaizu&show_icons=true&hide_border=true&theme=dark&count_private=true" />
-                <img alt="Aromal's Github Stats" height="160"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecongaizu&hide=assembly&layout=compact&theme=dark" />
-            </p>
-        </details> -->
     </div>
 </div>
-
-<hr />
-</br>
 
 <!--
 **lecongaizu/lecongaizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
