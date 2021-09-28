@@ -21,7 +21,6 @@
                 src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
             What I'm up to</h2>
         <ul>
-            
             <li> 💬 Ask me about Meachine Learning, IoT architecture, Web Dev</li>
             <li> 🎓 I'm currently learning Data science</li>
             <li>📫 How to reach me: <img align="center"
