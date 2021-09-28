@@ -22,7 +22,7 @@
             What I'm up to</h2>
         <ul>
             <li> 💬 Ask me about Meachine Learning, IoT architecture, Web Dev</li>
-            <li> 🎓 I'm currently learning Data science</li>
+            <li> 🎓 I'm currently learning Data science course</li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:lecongdtvt10@gmail.com" target="_blank">lecongdtvt10@gmail.com</a></li>
