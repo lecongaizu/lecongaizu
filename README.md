@@ -44,8 +44,6 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
                 width="35" />&nbsp;&nbsp;&nbsp
-            <img src="https://avatars1.githubusercontent.com/u/1609975?s=200&v=4" width="48"
-                alt="Dart" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
                 width="48" />&nbsp;&nbsp;&nbsp
@@ -55,9 +53,6 @@
     <div>
         <h2>⏱ My Stats
         </h2>
-    </div>
-    <br />
-    <div>
         <details>
             <summary>
                 :octocat: Github Stats
@@ -71,6 +66,7 @@
             </p>
         </details>
     </div>
+    <br />
 
 </div>
 
