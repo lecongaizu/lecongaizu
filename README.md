@@ -1,8 +1,8 @@
 <div align="center">
     <h1>Hi, I am Cong Le <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-<!--     <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/> -->
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Software Engineer</b> 🚀 from <b> Vietnam</b> 
@@ -76,13 +76,6 @@
 
 <hr />
 </br>
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=lecongaizu&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
-        width="130" /><br />
-<!--     <a href="https://www.buymeacoffee.com/cuonghapvn" target="_blank"><img
-            src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a> -->
-</div>
-
 
 <!--
 **lecongaizu/lecongaizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
