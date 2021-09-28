@@ -40,6 +40,10 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
                 alt="React.js" width="55" />
+             <img src="https://commons.wikimedia.org/wiki/File:Redux.png#/media/File:Redux.png"
+                alt="Redux" width="55" />
+            <img src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg#/media/File:Typescript_logo_2020.svg"
+                alt="Typescript" width="55" />
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
