@@ -32,7 +32,8 @@
     <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
-            <img align="left" alt="C" width="26px" src="https://i.imgur.com/3B65ag6.png" />
+            <img src="https://i.imgur.com/3B65ag6.png" width="48"
+                alt="C" />&nbsp;&nbsp;&nbsp
             <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
                 alt="Java" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
