@@ -64,7 +64,12 @@
         </p>
     </div>
 </div>
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=lecongaizu&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
+        width="130" /><br />
+    <a href="https://www.buymeacoffee.com/lecongaizu" target="_blank"><img
+            src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
+</div>
 <!--
 **lecongaizu/lecongaizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
