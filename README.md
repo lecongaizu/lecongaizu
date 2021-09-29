@@ -32,6 +32,7 @@
     <div>
         <h2>🧰 Languages and Tools</h2>
         <p align="center">
+            <img align="left" alt="C" width="26px" src="https://i.imgur.com/3B65ag6.png" />
             <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
                 alt="Java" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48"
@@ -41,9 +42,9 @@
             <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
                 alt="React.js" width="55" />
             <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' alt='Redux Logo' width='48'>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
+            <img src="https://i.imgur.com/Qb7CGcO.png" alt="HTML5"
                 width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
+            <img src="https://i.imgur.com/XwPXdgO.png" alt="CSS"
                 width="35" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
@@ -54,12 +55,18 @@
     <div>
         <h2>⏱ Github Stats
         </h2>
-        <p align="center">
+        <details open>
+            <summary>:zap: GitHub Stats</summary>
+
+                <img align="left" alt="lecongaizu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lecongaizu&show_icons=true&hide_border=true&theme=dracula" />
+
+        </details>
+<!--         <p align="center">
                 <img height="160" alt="Aromal's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=lecongaizu&show_icons=true&hide_border=true&theme=dark&count_private=true" />
                 <img alt="Aromal's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecongaizu&hide=assembly&layout=compact&theme=dark" />
-        </p>
+        </p> -->
     </div>
 </div>
 
