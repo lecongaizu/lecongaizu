@@ -26,7 +26,7 @@
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:lecongdtvt10@gmail.com" target="_blank">lecongdtvt10@gmail.com</a></li>
-            <li>📄 Here's my <a href="https://www.linkedin.com/in/van-cong-le-b27836118/" target="_blank">Resume</a></li>
+            <li>📄 Here's my <a href="https://www.linkedin.com/in/le-van-cong-b27836118/" target="_blank">Resume</a></li>
         </ul>
     </div>
     <div>
