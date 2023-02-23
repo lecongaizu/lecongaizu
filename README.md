@@ -5,7 +5,7 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
-        I am a <b>Software Engineer</b> 🚀 from <b> Vietnam</b> 
+        I am a <b>Software Engineer Team Leader</b> 🚀 from <b> Vietnam</b> 
       .<br />
     <div>
         <a href="https://www.linkedin.com/in/van-cong-le-b27836118/" target="_blank"><img alt="LinkedIn"
